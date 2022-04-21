@@ -5,10 +5,16 @@ debugging and finding the latest and compatible packages.
 
 For my future reference I am adding the main components and instructions I followed.
 
+* From Asset Store
+    * For quick prototyping I used Snaps Prototype | Office 
+    
 * Import XR packages and plugins
 	* XR Interaction Tool kit
 	* XR Plugin Management
 		* Import sample projects
+    * ProGrids
+    * ProBuilder
+    * Oculus XR Plugin
 		
 * Go to player settings> XR Plug-in Management
 	* Check Oculus box in Windows and Android tabs
