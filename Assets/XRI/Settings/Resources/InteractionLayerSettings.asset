@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Teleport
+  - LeftHand
+  - RightHand
+  - XR INTERACTION LAYERS No Regulars ones
+  - XR Interaction
+  - XR Direct Interaction
   - 
   - 
   - 
